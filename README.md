@@ -1,6 +1,8 @@
 # wasdTemplate
 Project template for Polyscript. This template is used by the best mod ever, Polibrary, so you know its good.
 
+HUGE SHOUTOUT TO JOUKE/INCOMPLETE_TREE, HE MADE LIKE HALF OF THIS!!
+
 # Tutorial for big stupid
 ## Setup:
 - Rename `wasdTemplate.csproj` and `wasdTemplate.sln`
